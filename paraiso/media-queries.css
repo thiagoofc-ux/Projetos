@@ -1,0 +1,26 @@
+@media (min-width: 600px) {
+    #burguer {
+        display: none; /* Escondido em telas maiores */
+    }
+
+    nav.menu {
+        position: relative;
+        max-width: none;
+        width: auto;
+        height: auto;
+        top: 0;
+        transform: none;
+        transition: none;
+        overflow: visible;
+    }
+
+    nav.menu ul {
+        display: flex;
+        justify-content: center;
+    }
+
+    nav.menu ul li {
+        border: none;
+        padding: 10px 20px;
+    }
+}
