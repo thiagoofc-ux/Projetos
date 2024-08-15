@@ -21,7 +21,19 @@ header img{
 a{
     text-decoration: none;
 }
-h1{
+.topicos{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Helvetica, sans-serif;
+    background: linear-gradient(to top, #732002,#F24F13);
+    color: #BFBFBF;
+    border-top: 1px solid #732002;
+    border-bottom: 1px solid #732002;
+    padding: 10px;
+    margin: 30px 0px;
+    font-size: 20px;
+}
+
+.sub-topicos{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Helvetica, sans-serif;
     color: #732002;
@@ -29,8 +41,10 @@ h1{
     border-bottom: 1px solid #732002;
     padding: 10px;
     margin: 30px 0px;
-    font-size: 20px;
+    font-size: 15px;
 }
+
+
 .primeira-ul{
     list-style: none;
 }
@@ -100,31 +114,7 @@ div.produto1{
     font-weight: bold;
 }
 
-.acessorios{
+.sec-inside{
     display: flex;
     flex-wrap: wrap;
 }
-
-.caixa-de-luz{
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.conduite{
-    display: flex;
-    flex-wrap: wrap;
-}
-.disjuntor{
-    display: flex;
-    flex-wrap: wrap;
-}
-.fios{
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.lampadas{
-    display: flex;
-    flex-wrap: wrap;
-}
-
