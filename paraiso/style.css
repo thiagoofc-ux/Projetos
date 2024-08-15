@@ -110,7 +110,21 @@ div.produto1{
     flex-wrap: wrap;
 }
 
+.conduite{
+    display: flex;
+    flex-wrap: wrap;
+}
+.disjuntor{
+    display: flex;
+    flex-wrap: wrap;
+}
+.fios{
+    display: flex;
+    flex-wrap: wrap;
+}
 
-
-
+.lampadas{
+    display: flex;
+    flex-wrap: wrap;
+}
 

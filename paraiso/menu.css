@@ -1,7 +1,8 @@
 /* Ícone do menu hamburguer */
 #burguer {
     font-size: 30px;
-    color: #BF3A0A;
+    color: #BFBFBF;
+    background: linear-gradient(to bottom, #F24F13,#8f2b07);
     cursor: pointer;
     display: block;
     margin-top: 15px; /* Adiciona espaçamento acima do botão */
@@ -14,7 +15,7 @@
 
 /* Menu lateral */
 nav.menu {
-    background-color: #F24F13;
+    background:linear-gradient(to bottom, #F24F13,#8f2b07);
     position: fixed;
     top: 0;
     left: 0;
