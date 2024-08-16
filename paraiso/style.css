@@ -14,6 +14,14 @@ body{
     height: 100%;
     overflow-x: hidden;
 }
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background-color: white;
+}
 
 header img{
    width: 100vw;
@@ -91,6 +99,54 @@ div.produto1{
     margin-top: 10px;
 }
 .produto6{
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    margin-top: 10px;
+}
+.produto7{
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    margin-top: 10px;
+}
+.produto8{
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    margin-top: 10px;
+}
+.produto9{
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    margin-top: 10px;
+}
+.produto10{
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    margin-top: 10px;
+}
+.produto11{
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    margin-top: 10px;
+}
+.produto12{
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    margin-top: 10px;
+}
+.produto13{
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    margin-top: 10px;
+}
+.produto14{
     text-align: center;
     width: 150px;
     height: 180px;

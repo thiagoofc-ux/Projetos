@@ -5,7 +5,6 @@
     background: linear-gradient(to bottom, #F24F13,#8f2b07);
     cursor: pointer;
     display: block;
-    margin-top: 15px; /* Adiciona espaçamento acima do botão */
     right: 20px;
     z-index: 1001;
     text-align: center; /* Centraliza o ícone */
