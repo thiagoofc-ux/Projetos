@@ -264,3 +264,24 @@ div.produto1{
     display: flex;
     flex-wrap: wrap;
 }
+
+footer{
+    background: #F24F13;
+    color: white;
+    padding-top: 30px;
+    height: 20vh;
+}
+.orcamento{
+    display: block;
+    background: #cc3d09;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 40px;
+    color: white;
+    text-align: center;
+}
+
+
+.email{
+    text-align: center;
+}
