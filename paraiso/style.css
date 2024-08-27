@@ -1,12 +1,14 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-html{
+
+html {
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
-body{
+
+body {
     scroll-behavior: smooth;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -14,7 +16,8 @@ body{
     height: 100%;
     overflow-x: hidden;
 }
-header{
+
+header {
     position: fixed;
     top: 0;
     left: 0;
@@ -23,16 +26,18 @@ header{
     background-color: white;
 }
 
-header img{
-   width: 100vw;
+header img {
+    width: 100vw;
 }
-a{
+
+a {
     text-decoration: none;
 }
-.topicos{
+
+.topicos {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Helvetica, sans-serif;
-    background: linear-gradient(to top, #732002,#F24F13);
+    background: linear-gradient(to top, #732002, #F24F13);
     color: #BFBFBF;
     border-top: 1px solid #732002;
     border-bottom: 1px solid #732002;
@@ -41,7 +46,7 @@ a{
     font-size: 20px;
 }
 
-.sub-topicos{
+.sub-topicos {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Helvetica, sans-serif;
     color: #732002;
@@ -53,196 +58,227 @@ a{
 }
 
 
-.primeira-ul{
+.primeira-ul {
     list-style: none;
 }
 
-section.ferragens{
+section.ferragens {
     height: 100vh;
 }
 
-.produtos{
+.produtos {
     height: 100px;
 }
-.produtosgeral{
+
+.produtosgeral {
     display: flex;
     flex-wrap: wrap;
 }
-div.produto1{
+
+div.produto1 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto2{
+
+.produto2 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto3{
+
+.produto3 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto4{
+
+.produto4 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto5{
+
+.produto5 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto6{
+
+.produto6 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto7{
+
+.produto7 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto8{
+
+.produto8 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto9{
+
+.produto9 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto10{
+
+.produto10 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto11{
+
+.produto11 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto12{
+
+.produto12 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto13{
+
+.produto13 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto14{
-    text-align: center;
-    width: 150px;
-    height: 180px;
-    margin-top: 10px;  
-}
-.produto15{
+
+.produto14 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto16{
+
+.produto15 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto17{
+
+.produto16 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto18{
+
+.produto17 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto19{
+
+.produto18 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto20{
+
+.produto19 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto21{
+
+.produto20 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto22{
+
+.produto21 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto23{
+
+.produto22 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto24{
+
+.produto23 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto25{
+
+.produto24 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto26{
+
+.produto25 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto27{
+
+.produto26 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto28{
+
+.produto27 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.produto29{
+
+.produto28 {
     text-align: center;
     width: 150px;
     height: 180px;
     margin-top: 10px;
 }
-.textoprodutos{
+
+.produto29 {
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    margin-top: 10px;
+}
+
+.textoprodutos {
     font-size: 11px;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     color: #12365A;
@@ -260,18 +296,19 @@ div.produto1{
     font-weight: bold;
 }
 
-.sec-inside{
+.sec-inside {
     display: flex;
     flex-wrap: wrap;
 }
 
-footer{
+footer {
     background: #F24F13;
     color: white;
     padding-top: 30px;
     height: 20vh;
 }
-.orcamento{
+
+.orcamento {
     display: block;
     background: #cc3d09;
     padding: 10px;
@@ -281,7 +318,31 @@ footer{
     text-align: center;
 }
 
-
-.email{
+.whats-icon {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 15px;
+    right: 10px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
     text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+}
+
+.whats-icon:hover{
+    
+    transition: all 0.5s;
+}
+
+.email {
+    text-align: center;
+    background: #cc3d09;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 40px;
+    color: white;
 }
