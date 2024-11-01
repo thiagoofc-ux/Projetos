@@ -1,0 +1,24 @@
+/* Container do slideshow */
+.slideshow-container {
+    position: relative;
+    max-width: 100vw; /* Ajusta a largura conforme necessário */
+    margin: auto;
+    margin-top: 200px;
+    overflow: hidden; /* Esconde as imagens fora da tela */
+}
+
+/* Imagens do slideshow */
+.mySlides {
+    display: none; /* Esconde todas as imagens inicialmente */
+}
+
+/* Efeito de fade */
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}

@@ -1,0 +1,720 @@
+/*600 a 768
+768 a 992
+992 a 1200*/
+@media screen and (min-width:320px) and (max-width:360px){
+    .p-churrasco{
+        font-size: 17px;
+    }
+    div#cafe{
+        height: 80vh;
+    }
+    div#feijoada{
+        height: 110vh;
+    }
+    div#churrascos{
+        height: 110vh;
+    }
+    img.primeiras-imgs{
+        width: 130px;
+        height: 250px;
+    }
+    img.primeiras-imgs:hover{
+        width: 140px;
+        height: 260px;
+    }  
+    .img-churrasco{
+        width: 130px;
+        height: 250px;
+    }
+    .img-churrasco:hover{
+        width: 140px;
+        height: 260px;
+    }
+    div#sobremesas{
+        height: 110vh;
+    }
+    div#equipe{
+        height: 110vh;
+    }
+    div#feedback{
+        height: 70vh;
+    }
+}
+@media screen and (min-width:360px) and (max-width:399px){
+    .segunda-li{
+        padding: 5px 5px;
+    }
+    .terceira-li{
+        padding: 5px 5px;
+    }
+    img.primeiras-imgs{
+        width: 160px;
+        height: 300px;
+    }
+    img.primeiras-imgs:hover{
+        width: 170px;
+        height: 310px;
+    }  
+    .img-churrasco{
+        width: 160px;
+        height: 300px;
+    }
+    .img-churrasco:hover{
+        width: 170px;
+        height: 310px;
+    }
+    .main-content{
+        height: 120vh;
+    }
+    div#cafe{
+        height: 110vh;
+    }
+    div#feijoada{
+        height: 160vh;
+    }
+    div#churrascos{
+        height: 160vh;
+    }
+    div#sobremesas{
+        height: 160vh;
+    }
+    div#equipe{
+        height: 160vh;
+    }
+    div#feedback{
+        height: 90vh;
+    }
+    div#contato{
+        height: 22vh;
+    }
+}
+@media screen and (min-width:400px) and (max-width:429px){
+    h1{
+        font-size: 50px;
+        margin-bottom: 5px;
+    }
+    p.texto{
+        width: 70%;
+        padding-bottom: 20px;
+    }
+    .primeira-ul{
+        font-size: 14px;
+    }
+    .texto{
+        font-size: 12px;
+        padding-bottom: 90px;
+    }
+    .evento{
+        font-size: 13px;
+    }
+    .whatsapp{
+        font-size: 13px;
+    }
+    #casamentos{
+        height: 150vh;
+    }
+
+    .main-content{
+        height: 110vh;
+    }
+    .segunda-li{
+        padding-left: 5px;
+    }
+
+    div .primeiras-imgs{
+        width: 170px;
+        height: 320px;
+    }
+    div .primeiras-imgs:hover{
+        width: 180px;
+        height: 330px;
+        transition: all 0.8s;
+    
+    }
+    div#cafe{
+        height: 95vh;
+    }
+    div#feijoada{
+        height: 140vh;
+    }
+    div#churrascos{
+        height: 140vh;
+    }
+    .img-churrasco{
+        width: 170px;
+        height: 320px;
+    }
+    .img-churrasco:hover{
+        width: 180px;
+        height: 330px;
+    }
+    div#sobremesas{
+        height: 140vh;
+    }
+    div#equipe{
+        height: 150vh;
+    }
+    div#feedback{
+        height: 80vh;
+    }
+}
+@media screen and (min-width: 430px) and (max-width:600px) {
+    p.texto{
+        font-size: 13px;
+    }
+    div .primeiras-imgs{
+        width: 180px;
+        height: 330px;
+    }
+    div .primeiras-imgs:hover{
+        width: 190px;
+        height: 340px;
+        transition: all 0.8s;
+    }
+    div#feedback{
+        height: 90vh;
+    }
+    ul.ul-feedback li{
+        padding-bottom: 20px;
+    }
+    div#cafe{
+        height: 100vh;
+    }
+    div#feijoada{
+        height: 140vh;
+    }
+    div#churrascos{
+        height: 140vh;
+    }
+    .img-churrasco{
+        width: 180px;
+        height: 330px;
+    }
+    .img-churrasco:hover{
+        width: 190px;
+        height: 340px;
+    }
+    div#sobremesas{
+        height: 140vh;
+    }
+    div#equipe{
+        height: 140vh;
+    }
+    div#feedback{
+        height: 100vh;
+    }
+    div#contato{
+        height: 20vh;
+    }
+}
+@media screen and (min-width: 600px) and (max-width:768px) {
+    .segunda-li{
+        padding:5px 5px;
+    }
+    p.texto{
+        padding-top: 50px;
+        width: 60%;
+        margin-bottom: 30px;
+    }
+    .main-content{
+        height: 100vh;
+    }
+    div .primeiras-imgs{
+        width: 180px;
+        height: 350px;
+        border-radius: 7px;
+        box-shadow: 0px 0px 5px black;
+    
+    }
+    .terceira-li{
+        padding: 5px 5px;
+    }
+    div .primeiras-imgs:hover{
+        width: 195px;
+        height: 370px;
+        transition: all 0.5s;
+    
+    }
+    div#cafe{
+        height: 100vh;
+    }
+    div#feijoada{
+        height: 100vh;
+    }
+    div#churrascos{
+        height: 100vh;
+    }
+    .img-churrasco{
+        width: 180px;
+        height: 350px;
+    }
+    .img-churrasco:hover{
+        width: 195px;
+        height: 370px;
+    }
+    div#sobremesas{
+        height: 100vh;
+    }
+    div#equipe{
+        height: 100vh;
+    }
+    div#feedback{
+        height: 90vh;
+    }
+    div#feedback{
+        height: 90vh;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px) {
+    p.texto{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-bottom: 30px;
+    }
+    div.main-content{
+        height: 95vh;
+    }
+    div .primeira-img{
+        height: 215px;
+
+    }
+    .video{
+        width: 60%;
+        height: 270px;
+    }
+    img.primeiras-imgs{
+        width: 230px;
+        height: 430px;
+    }
+    img.primeiras-imgs:hover{
+        width: 240px;
+        height: 440px;
+    }
+    .evento{
+        width: 35%;
+    }
+    div#cafe{
+        height: 120vh;
+    }
+    div#feijoada{
+        height: 120vh;
+    }
+    div#churrascos{
+        height: 120vh;
+    }
+    .img-churrasco{
+        width: 230px;
+        height: 430px;
+    }
+    .img-churrasco:hover{
+        width: 240px;
+        height: 440px;
+    }
+    div#sobremesas{
+        height: 120vh;
+    }
+    div#equipe{
+        height: 120vh;
+    }
+    div#feedback{
+        height: 90vh;
+    }
+}
+@media screen and (min-width:993px) and (max-width:1199px) {
+    div.video{
+        width: 70%;
+        height: 300px;
+    }
+    img.primeira-img{
+        height: 300px;
+    }
+    div#cafe{
+        height: 70vh;
+    }
+    div#feijoada{
+        height: 110vh;
+    }
+    div#churrascos{
+        height: 110vh;
+    }
+    div#sobremesas{
+        height: 110vh;
+    }
+    div#equipe{
+        height: 110vh;
+    }
+    div#feedback{
+        height: 60vh;
+    }
+    .numero{
+        font-size: 20px;
+    }
+    a.insta{
+        font-size: 20px;
+    }
+    
+}
+@media screen and (min-width: 1200px) and (max-width: 1339px){
+    div .video{
+        height: 300px;
+        width: 600px;
+    }
+    .primeira-img{
+        height: 296px;
+        width: 596px;
+    }
+    div.main-content{
+        height: 80vh;
+    }
+    div#cafe{
+        height: 70vh;
+    }
+    div#feijoada{
+        height: 110vh;
+    }
+    div#churrascos{
+        height: 110vh;
+    }
+    div#sobremesas{
+        height: 110vh;
+    }
+    div#equipe{
+        height: 110vh;
+    }
+    div#feedback{
+        height: 60vh;
+    }
+    i#whats{
+        margin-left: 43%;
+    }
+    #instagram{
+        margin-left: 43%;
+        margin-top: 20px;
+    }
+    .numero{
+        font-size: 15px;
+    }
+    a.insta{
+        font-size: 15px;
+    }
+    a.evento{
+        width: 30%;
+    }
+    div a.whatsapp{
+        width: 30%;
+    }
+    p.p-churrasco{
+        width: 60%;
+        margin: auto;
+    }
+}
+@media screen and (min-width: 1340px) and (max-width: 1500px){
+    div .video{
+        height: 300px;
+        width: 600px;
+    }
+    .primeira-img{
+        height: 296px;
+        width: 596px;
+    }
+    p.p-churrasco{
+        width: 50%;
+        margin: auto;
+    }
+    div.main-content{
+        height: 80vh;
+    }
+    div#cafe{
+        height: 70vh;
+    }
+    div#feijoada{
+        height: 80vh;
+    }
+    div#churrascos{
+        height: 80vh;
+    }
+    div#sobremesas{
+        height: 80vh;
+    }
+    div#equipe{
+        height: 80vh;
+    }
+    div#feedback{
+        height: 60vh;
+    }
+    i#whats{
+        margin-left: 43%;
+    }
+    #instagram{
+        margin-left: 43%;
+        margin-top: 20px;
+    }
+    .numero{
+        font-size: 20px;
+    }
+    a.insta{
+        font-size: 20px;
+    }
+    a.evento{
+        width: 30%;
+    }
+    div a.whatsapp{
+        width: 30%;
+    }
+}
+@media screen and (min-width: 1501px) and (max-width: 1749px){
+    div .video{
+        height: 300px;
+        width: 600px;
+    }
+    .primeira-img{
+        height: 296px;
+        width: 596px;
+    }
+    p.p-churrasco{
+        width: 50%;
+        margin: auto;
+    }
+    div.main-content{
+        height: 80vh;
+    }
+    div#cafe{
+        height: 70vh;
+    }
+    div#feijoada{
+        height: 130vh;
+    }
+    div#churrascos{
+        height: 130vh;
+    }
+    div#sobremesas{
+        height: 130vh;
+    }
+    div#equipe{
+        height: 130vh;
+    }
+    div#feedback{
+        height: 60vh;
+    }
+    img.primeiras-imgs{
+        width: 300px;
+        height: 450px;
+    }
+    img.primeiras-imgs:hover{
+        width: 310px;
+        height: 460px;
+    }
+    .img-churrasco{
+        width: 300px;
+        height: 450px;
+    }
+    .img-churrasco:hover{
+        width: 310px;
+        height: 460px;
+    }
+    i#whats{
+        margin-left: 43%;
+    }
+    #instagram{
+        margin-left: 43%;
+        margin-top: 20px;
+    }
+    .numero{
+        font-size: 20px;
+    }
+    a.insta{
+        font-size: 20px;
+    }
+    a.evento{
+        width: 30%;
+    }
+    div a.whatsapp{
+        width: 30%;
+    }
+}
+@media screen and (min-width: 1750px) {
+    .inicio{
+        height: 130px;
+    }
+    ul{
+        font-size: 18px;
+    }
+    .primeira-ul{
+        padding: 10px;
+    }
+    h1{
+        font-size: 60px;
+    }
+    div .main-content{
+        margin-top: 130px;
+        height: 110vh;
+    }
+    h2{
+        font-size: 40px;
+        
+    }
+    p.texto{
+        font-size: 18px;
+    }
+    div .video{
+        margin-top: 70px;
+        width: 50%;
+        height: 400px;
+    }
+    video.primeira-img{
+        border:3px solid #2D0101;
+        border-radius: 20px;
+        width: 100%;
+        height: 400px;
+    }
+    .frase-ca{
+        font-size: 20px;
+    }
+    .evento{
+        display: block;
+        padding: 10px;
+        width: 20%;
+        margin: auto;
+        margin-top: 35px;
+        border-radius: 10px;
+        font-weight: bold;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #C9B28E;
+    }
+    
+    .evento:hover{
+        background-color: #88785e;
+        cursor: pointer;
+        transition: all .8s;
+    }
+    .numero{
+        float: left;
+    }
+
+    .segunda-li{
+        display: inline-block;
+    }
+    p.p-feedback{
+        font-size: 20px;
+    }
+    .ul-feedback{
+        flex-direction: row;
+        justify-content: center;
+    }
+    .ul-feedback li{
+        justify-content: center;
+    }
+    ul.ul-feedback li img{
+        padding: 30px;
+    }
+    ul.terceira-ul li{
+        padding: 5px;
+    }
+    div#feedback{
+        height: 90vh;
+    }
+    i#whats{
+        margin-left: 43%;
+    }
+    #instagram{
+        margin-left: 43%;
+        margin-top: 20px;
+    }
+    .numero{
+        font-size: 20px;
+    }
+    a.insta{
+        font-size: 20px;
+    }
+    .p-churrasco{
+        width: 50%;
+        margin: auto;
+    }
+    div#cafe{
+        height: 70vh;
+    }
+    div#feijoada{
+        height: 70vh;
+    }
+    div#churrascos{
+        height: 70vh;
+    }
+    div#sobremesas{
+        height: 70vh;
+    }
+    div#equipe{
+        height: 70vh;
+    }
+    div#feedback{
+        height: 60vh;
+    }
+    img.primeiras-imgs{
+        width: 300px;
+        height: 500px;
+    }
+    img.primeiras-imgs:hover{
+        width: 310px;
+        height: 510px;
+    }
+    .img-churrasco{
+        width: 300px;
+        height: 500px;
+    }
+    .img-churrasco:hover{
+        width: 310px;
+        height: 510px;
+    }
+}
+@media only screen and (orientation: landscape) and (max-width: 600px)  {
+    div.main-content{
+        height: 200vh;
+    }
+    div.texto{
+        margin-bottom: 90px;
+    }
+    .segunda-li{
+        padding: 5px;
+    }
+    div.primeiras-imgs{
+        width: 190px;
+        height: 360px;
+        border-radius: 7px;
+        box-shadow: 0px 0px 5px black;
+    }
+    
+    div .primeiras-imgs:hover{
+        width: 195px;
+        height: 370px;
+        transition: all 0.8s;
+    
+    }
+}
+@media screen and (min-width: 856px) {
+    .primeira-ul {
+        display: flex !important;
+        justify-content: center;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    }
+
+    .primeira-li {
+        margin: 0 5px;
+    }
+
+    #burguer {
+        display: none;
+    }
+
+    .side-menu,
+    .overlay {
+        display: none;
+    }
+    a.whatsapp{
+        margin: auto;
+        text-align: center;
+        width:50%;
+    }
+}
